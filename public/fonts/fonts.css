@@ -1,0 +1,24 @@
+  
+@font-face {
+    font-family: 'Calibre';
+    src:  url('./CalibreTest-Light.woff') format('woff');
+    font-weight: 300;
+  }
+  
+@font-face {
+    font-family: 'Calibre';
+    src:  url('./CalibreTest-Medium.woff') format('woff');
+    font-weight: 500;
+  }
+
+@font-face {
+    font-family: 'Founders Grotesk Condensed';
+    src:  url('./FoundersGrotCondTest-Medium.woff') format('woff');
+    font-weight: 500;
+  }
+
+@font-face {
+    font-family: 'Founders Grotesk Condensed';
+    src:  url('./FoundersGrotCondTest-Regular.woff') format('woff');
+    font-weight: 300;
+  }
